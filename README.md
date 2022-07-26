@@ -9,5 +9,5 @@ Process Workflow :
    3. After the choice selection flow moves to the switch statement for the respective Bank.
    4. Customer gets a welcome msg and is again asked to choose among 1,2,3 for withdrawl,deposite and loan.
    5. On successfully selecting the choice the customer will get the account information after the respective task completion.
-   6. Else if invalid input entered the program will again start its execution from the point of giving choice to customers.
+   6. Else if invalid input entered the program will again start its execution from the point of giving choice to customers..
    
